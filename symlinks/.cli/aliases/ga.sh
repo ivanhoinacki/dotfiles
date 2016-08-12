@@ -1,0 +1,6 @@
+alias g="git"
+alias ga="git add"
+alias gco="git checkout"
+alias gboom="git clean -xfd"
+alias gst="git status"
+alias gnp="git-notpushed"
